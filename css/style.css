@@ -69,7 +69,7 @@ body {
   overflow: hidden;
 }
 
-#bg.image{
+#bg-image{
   background-image: url(../images/mountain_img.jpeg);
   width: 100px;
   height: 200px;
