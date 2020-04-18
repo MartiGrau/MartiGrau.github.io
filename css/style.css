@@ -26,11 +26,12 @@ body {
   overflow: hidden;
 }
 
+#w3-content {
+  max-width: 1500px;
+}
+
 #bg-image{
-  background-image: url(../images/mountain_img.jpeg);
-  background-repeat: no-repeat;
-  background-size: auto;
-  top: 20%;
+  width:100%
 }
 
 #intro {
