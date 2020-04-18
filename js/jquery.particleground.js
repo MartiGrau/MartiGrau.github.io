@@ -1,4 +1,10 @@
-
+/*!
+ * Particleground
+ *
+ * The author of this code comes from Jonathan Nicol in https://github.com/itsron717/ParticleGround-Portfolio repository.
+ *
+ * This code allows to create a canvas based particle system background
+ */
 
 ;(function(window, document) {
   "use strict";
