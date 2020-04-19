@@ -2,28 +2,6 @@ html {
   overflow: hidden;
 }
 
-body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
-.w3-row-padding img {margin-bottom: 12px}
-.bgimg {
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url('/images/mountain_img.jpeg');
-  min-height: 100%;
-}
-
-body {
-  background-color: #0083B0;
-  background-image: url(fallback-gradient.svg);
-  background-image: -webkit-gradient(linear, left top, right top, from(#0083B0), to(#00B4DB));
-  background: #00B4DB;
-  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);
-  background: linear-gradient(to right, #0083B0, #00B4DB);
-  overflow: hidden;
-  position: relative;
-  height: 100%;
-}
-
 #particles {
   width: 100%;
   height: 100%;
